@@ -2,7 +2,7 @@
 
 ## 人体骨骼点检测的几个重要的模型算法：
 
-- Pose Machine
+- [Pose Machine](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
 - Convolution Pose Machine
 - Multi-people pose estimation
 - Mask RCNN
