@@ -1,10 +1,10 @@
 本项目将对人体运动状态检测进行研究
 
-## 人体骨骼点检测的几个重要的模型算法：
+## 人体骨骼点检测的几个重要的算法：
 
 - [Pose Machine](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
 - Convolution Pose Machine
-- Multi-people pose estimation
+- [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 - Mask RCNN
 
 ## 数据集
