@@ -18,7 +18,3 @@
 - [V. Ramakrishna, D. Munoz, M.Hebert . “Pose Machines: Articulated Pose Estimation via Inference Machines”  ECCV,2014](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)
 - [Wei, Shih-En, et al. “Convolutional Pose Machines.” CVPR, 2016](https://arxiv.org/pdf/1602.00134)
 - [Z Cao, T Simon, SE Wei, Y Sheikh. “Realtime multi-person 2d pose estimation using part affinity fields.” CVPR,2017](https://arxiv.org/pdf/1611.08050)
-
-## 论文解读
-
-- [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](doc/realtime-pose-estimation.md)
